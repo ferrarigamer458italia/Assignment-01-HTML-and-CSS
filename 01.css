@@ -1,0 +1,53 @@
+.nav ol {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    align-items: flex-start;
+    margin: -50px 0px;
+    color: #191a23;
+    font-family: "Google Sans", "Roboto", "Helvetica Neue", sans-serif;
+    font-size: large;
+}
+.nav ol li{
+    padding: 10px;
+}
+#box{
+    border: 1px solid #191a23;
+    border-radius: 15px;
+    margin: 0px 0px 10px 10px;
+}
+h1{
+    font-family: "Google Sans", "Roboto", "Helvetica Neue", sans-serif;
+    font-weight: 50px;
+    margin: 100px 50px;
+    font-size:50px;
+    margin: 100px 0px;
+    line-height: 70px;
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+    margin: -300px 0px 0px 0px;
+}
+.par{
+    margin: -250px 0px 0px 0px;
+    font-family: "Google Sans", "Roboto", "Helvetica Neue", sans-serif;
+}
+.book{
+    border: none;
+    width: 170px;
+    height: 30px;
+    background-color: #191a23;
+    color: #f3f3f3;
+    border-radius: 10px;
+    padding: 5px 5px 30px 30px;
+    font-size: large;
+    margin: 40px 0px;
+}
+.images{
+    margin: 100px 0px 0px 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
