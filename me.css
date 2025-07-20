@@ -1,0 +1,24 @@
+.name{
+    font-size: xx-large;
+    height: 40px;
+    width: 350px;
+    line-height: 40px;
+    text-align: center;
+    background-color: rgb(1, 230, 230);
+    color: aliceblue;
+    margin-top: 23%;
+    margin-left: 38%;
+    border-radius: 15px;
+    border-top: hidden;
+    border-right: 3px solid gray;
+    border-bottom: 3px solid gray;
+    border-left: hidden;
+}
+.name:hover{
+    background-color: rgb(13, 207, 207);
+    cursor:grabbing;
+    height: 50px;
+    width: 360px;
+    text-align: center;
+    line-height: 50px;
+}
